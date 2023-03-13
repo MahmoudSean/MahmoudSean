@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud (Eric) Sean </h1>
-<h3 align="center"> • ML Engineer • Blockchain/crypto enthusiasm • Computer Vision Developer </h3>
+<h3 align="center"> • ML Engineer • Blockchain/crypto enthusiast • Computer Vision Developer </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
